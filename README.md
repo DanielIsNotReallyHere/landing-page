@@ -1,2 +1,3 @@
 # landing-page
-repo for odin assignment about flexbox (of which im not good at)
+i'm honestly glad that this assignment exists.At first it was very daunting, and i genuinely thought of giving up, or at least taking a break, but still, i perservered. Working on this project forced me to accept a slower pace of progress, which wasa necessary learning experience
+the indextoo and stylestoo files are there to show what the project looked like before i decided to put my theming in it
